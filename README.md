@@ -26,3 +26,4 @@ function fun(){
   console.log("test")
 }
 ```
+  code block2
