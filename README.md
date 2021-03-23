@@ -8,3 +8,6 @@ Now I will deeply understand how to use github
 
 * 无序列表1
 * 无序列表2
+
+1. 有序列表1
+2. 有序列表2
