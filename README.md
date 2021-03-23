@@ -39,4 +39,4 @@ function fun(){
 [地址1]: http://baidu.com
 [2]: https://taobao.com
 
-![这是图片显示不出来时的文本]()
+![这是图片显示不出来时的文本](https://github.com/chilo-hzl/hello-world/blob/c5c5f50e27fb1bd37dd397a73e56b7cd3ddf1f42/00101.jpg)
