@@ -26,4 +26,14 @@ function fun(){
   console.log("test")
 }
 ```
-  code block2
+    code block2
+    code content
+这是一个链接[链接][地址1]
+
+这是链接[链接2][地址1]
+
+这是链接2[跳转][2]
+
+这是链接2[跳转][2]
+[地址1]: http://baidu.com
+[2]: https://taobao.com
