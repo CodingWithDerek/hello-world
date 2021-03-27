@@ -40,3 +40,9 @@ function fun(){
 [2]: https://taobao.com
 
 ![这是图片显示不出来时的文本](https://github.com/chilo-hzl/hello-world/blob/c5c5f50e27fb1bd37dd397a73e56b7cd3ddf1f42/00101.jpg)
+
+*这是斜体*
+
+**这是粗体**
+
+***这行字又粗又斜***
